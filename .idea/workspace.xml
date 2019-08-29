@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83a5324-192c-4db5-aefe-bf3a3c371535" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/olympos/assets/css/Style.css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/olympos/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/olympos/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/olympos/layouts/default.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/olympos/layouts/default.htm" afterDir="false" />
-    </list>
+    <list default="true" id="b83a5324-192c-4db5-aefe-bf3a3c371535" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="2" lean-forward="true" selection-end-line="47" selection-end-column="3" />
+              <caret line="8" column="2" selection-end-line="47" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -219,7 +214,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ICTA" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -250,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567051158537</updated>
-      <workItem from="1567051161057" duration="3372000" />
+      <workItem from="1567051161057" duration="4149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3372000" />
+    <option name="totallyTimeSpent" value="4149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -302,7 +297,7 @@
     <entry file="file://$PROJECT_DIR$/themes/demo/assets/javascript/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="2" lean-forward="true" selection-end-line="47" selection-end-column="3" />
+          <caret line="8" column="2" selection-end-line="47" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
