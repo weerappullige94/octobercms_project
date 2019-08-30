@@ -1,4 +1,4 @@
-1567157291a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:970:"description = "Default layout"
+1567166300a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:998:"description = "Default layout"
 ==
 <!DOCTYPE html>
 <html>
@@ -19,7 +19,7 @@
 
 
 <!-- Content -->
-<section id="layout-content">
+<section id="layout-content" class="container clearfix" >
     {% page %}
 </section>
 
@@ -32,7 +32,7 @@
 
 </body>
 </html>
-";s:5:"mtime";i:1567054504;s:6:"markup";s:935:"<!DOCTYPE html>
+";s:5:"mtime";i:1567164194;s:6:"markup";s:963:"<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -51,7 +51,7 @@
 
 
 <!-- Content -->
-<section id="layout-content">
+<section id="layout-content" class="container clearfix" >
     {% page %}
 </section>
 

@@ -73,7 +73,7 @@ class __TwigTemplate_539cb57e68a3a2679dc265fa5c049cd564ce6bf3cf07c6b03938509acb8
 
 
 <!-- Content -->
-<section id=\"layout-content\">
+<section id=\"layout-content\" class=\"container clearfix\" >
     ";
         // line 21
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFunction();
@@ -151,7 +151,7 @@ class __TwigTemplate_539cb57e68a3a2679dc265fa5c049cd564ce6bf3cf07c6b03938509acb8
 
 
 <!-- Content -->
-<section id=\"layout-content\">
+<section id=\"layout-content\" class=\"container clearfix\" >
     {% page %}
 </section>
 
