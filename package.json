@@ -19,5 +19,6 @@
   "devDependencies": {
     "laravel-elixir": "^6.0.0-18",
     "laravel-elixir-livereload": "^1.1.6"
-  }
+  },
+  "dependencies": {}
 }

@@ -1,0 +1,11 @@
+name: Movies
+modelClass: Tharanga\Movies\Models\Movie
+form: $/tharanga/movies/models/movie/fields.yaml
+defaultRedirect: tharanga/movies/movies
+create:
+    redirect: 'tharanga/movies/movies/update/:id'
+    redirectClose: tharanga/movies/movies
+update:
+    redirect: tharanga/movies/movies
+    redirectClose: tharanga/movies/movies
+preview: {  }
