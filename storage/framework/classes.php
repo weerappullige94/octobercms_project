@@ -70,4 +70,7 @@
   'RainLab\\Builder\\FormWidgets\\ControllerBuilder' => 'plugins\\rainlab\\builder\\formwidgets\\ControllerBuilder.php',
   'tharanga\\movies\\Controllers\\movies' => 'plugins\\tharanga\\movies\\controllers\\movies.php',
   'Tharanga\\Movies\\Models\\Movie' => 'plugins\\tharanga\\movies\\models\\Movie.php',
+  'RainLab\\Builder\\Components\\RecordList' => 'plugins\\rainlab\\builder\\components\\RecordList.php',
+  'RainLab\\Builder\\Components\\RecordDetails' => 'plugins\\rainlab\\builder\\components\\RecordDetails.php',
+  'RainLab\\Builder\\Classes\\ComponentHelper' => 'plugins\\rainlab\\builder\\classes\\ComponentHelper.php',
 );

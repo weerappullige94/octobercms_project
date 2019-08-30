@@ -2,56 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b83a5324-192c-4db5-aefe-bf3a3c371535" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/laravel-elixir-livereload/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/laravel-elixir-livereload/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/laravel-elixir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/laravel-elixir/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/05/a5/default.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/27/4a/header.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/32/49/homepage.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/6a/01/home.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/8c/ce/footer.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/cache/f5/b7/default.htm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/2e/2eb7115c462fbd0bec276448cc32732b88fe68dafe95b6d4f27fd15698a35db3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/8e/8e92f8b09b0a88cc4ee378e50de2228baa38d94ace877c7f734af61c3b674c89.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/ab/abb75f959b491d593ce16da55df6c0356c73892298ae80ddccef62d66ad23efe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/ae/ae32ef12b7a9539db075cae0bc931cb93ca88ecc90c2d3195286b0fb996a01fe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/d5/d5870f6a164d6c2877b9e55bed630f09d47171a5e29beb12cd0e2f9126f5b4d0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/twig/da/da756ba41fdbec9c531bba14d771c3b5aa8ba763e7ae9a8a58e1ba63d6466d56.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/0c/88/0c888ce68f43f2c6c5e3d3d135c2096d8b5d5dec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/16/a0/16a0ee5cbc85ccf4b08fa125718b5ab37892f874" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/2c/57/2c573bdfb121e3c6bc4d9f61357270ebffd39d75" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/36/08/3608b742df1c2262ab60ca22543af15dcc1e44d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/44/8b/448b344111dcb737240fa91bc36615b9c211e70f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/53/ae/53ae907590fe14dd9394a210187e368b98df1365" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/59/9c/599c6c5915a4fffa4a228337f2f0b977fc8927c9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/60/2f/602f78b7a2800697655ee5c9329249e9b8f6167a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/82/01/82019969c2953e7580cac5c000bd3fc4d5bcaa0e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/84/de/84dee9123d02638b4f235438adad1a24df5bd190" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/91/97/9197e078cd0b9863bb8c797046d3fe09dbb59e69" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/98/07/9807f06df333fa8bbf402d2523d27a72c79e3f8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/99/01/9901f87c69b4762a9d0d943d44bef647f5e91837" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a6/a5/a6a514eeb3771800352f98a72d6c9a1a8d468005" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/bb/6c/bb6c5a2f2083b148c8b0f476eabeb2489d4e556b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/cf/28/cf28253773ff75ac438a61c1f159bb9d4bb4e9f3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/fa/4f/fa4f5a781329037a38e68b47181b89604a52a801" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/classes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/DErj3xbNnN88v2DaPBKmZbkg1RQeN7ryjhwbDacW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/Ms4zOZEwNJNwfaCNVhFPI7pDCRg7kf9KJrt4Ga2I" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/WbyEYnvrKldkT48ezKdQo0Hb4jY5oMrW6dbWEICa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/ooyNVILwOIoW1R0oPCwK6s3gyIp7FN982FuyXxbv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/qQfnB6wi1k18aemsmzqqKzk3dBGwmbbVLmcccxJn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/Fd3M54fJ5tMiMKkrRtrlUox0m92fBPDAntp1s3eP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/QmrjKmmHVudpE7LIAQcVzqrCos4NEzZnuidowsrG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +26,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="htm" value="2" />
+          <entry key="htm" value="3" />
           <entry key="js" value="4" />
           <entry key="yaml" value="3" />
         </counts>
@@ -80,7 +34,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="3" />
           <entry key="JavaScript" value="4" />
           <entry key="YAML" value="3" />
         </counts>
@@ -113,11 +67,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/default.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="135">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#1462#1468#0" expanded="true" />
+                <element signature="e#1928#1934#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -205,32 +172,12 @@
             <path>
               <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
               <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
               <item name="octobercms" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="october" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="rainlab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="tharanga" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="tharanga" type="462c0819:PsiDirectoryNode" />
-              <item name="movies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
@@ -241,28 +188,13 @@
               <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
               <item name="octobercms" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="olympos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
               <item name="octobercms" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="olympos" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -270,28 +202,7 @@
               <item name="octobercms" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="olympos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="olympos" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="olympos" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="octobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="octobercms" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="olympos" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,15 +244,16 @@
       <option name="presentableId" value="Default" />
       <updated>1567051158537</updated>
       <workItem from="1567051161057" duration="4581000" />
-      <workItem from="1567143110731" duration="1287000" />
+      <workItem from="1567143110731" duration="2698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5868000" />
+    <option name="totallyTimeSpent" value="7279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16717096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -409,8 +321,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/olympos/layouts/default.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="135">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/olympos/pages/movies.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1462#1468#0" expanded="true" />
+            <element signature="e#1928#1934#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

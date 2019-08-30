@@ -1,0 +1,15 @@
+1567157490a:1:{s:10:"movies.htm";a:9:{s:8:"fileName";s:10:"movies.htm";s:7:"content";s:325:"title = "movies"
+url = "/movies"
+is_hidden = 0
+
+[builderList]
+modelClass = "Tharanga\Movies\Models\Movie"
+scope = "-"
+scopeValue = "{{ :scope }}"
+displayColumn = "name"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+==
+{% component 'builderList' %}";s:5:"mtime";i:1567156883;s:6:"markup";s:29:"{% component 'builderList' %}";s:4:"code";N;s:5:"title";s:6:"movies";s:3:"url";s:7:"/movies";s:9:"is_hidden";s:1:"0";s:11:"builderList";a:8:{s:10:"modelClass";s:28:"Tharanga\Movies\Models\Movie";s:5:"scope";s:1:"-";s:10:"scopeValue";s:12:"{{ :scope }}";s:13:"displayColumn";s:4:"name";s:16:"noRecordsMessage";s:16:"No records found";s:11:"detailsPage";s:1:"-";s:19:"detailsUrlParameter";s:2:"id";s:10:"pageNumber";s:11:"{{ :page }}";}}}
