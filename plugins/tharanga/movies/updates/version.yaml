@@ -3,3 +3,15 @@
 1.0.2:
     - 'Created table tharanga_movies_'
     - builder_table_create_tharanga_movies_.php
+1.0.3:
+    - 'Created table tharanga_movies_categories'
+    - builder_table_create_tharanga_movies_categories.php
+1.0.4:
+    - 'Updated table tharanga_movies_categories'
+    - builder_table_update_tharanga_movies_categories.php
+1.0.5:
+    - 'Created table tharanga_movies_categories'
+    - builder_table_create_tharanga_movies_categories_2.php
+1.0.6:
+    - 'Created table tharanga_movies_directors'
+    - builder_table_create_tharanga_movies_directors.php

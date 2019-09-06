@@ -1,0 +1,10 @@
+name: Directors
+form: $/tharanga/movies/models/director/fields.yaml
+modelClass: Tharanga\Movies\Models\Director
+defaultRedirect: tharanga/movies/directors
+create:
+    redirect: 'tharanga/movies/directors/update/:id'
+    redirectClose: tharanga/movies/directors
+update:
+    redirect: tharanga/movies/directors
+    redirectClose: tharanga/movies/directors

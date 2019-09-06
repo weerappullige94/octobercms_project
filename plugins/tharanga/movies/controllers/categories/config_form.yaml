@@ -1,0 +1,10 @@
+name: Categories
+form: $/tharanga/movies/models/category/fields.yaml
+modelClass: Tharanga\Movies\Models\Category
+defaultRedirect: tharanga/movies/categories
+create:
+    redirect: 'tharanga/movies/categories/update/:id'
+    redirectClose: tharanga/movies/categories
+update:
+    redirect: tharanga/movies/categories
+    redirectClose: tharanga/movies/categories

@@ -9,3 +9,16 @@ navigation:
         label: Movies
         url: /tharanga/movies/movies
         icon: icon-video-camera
+        sideMenu:
+            side-menu-item:
+                label: Categories
+                url: /tharanga/movies/categories
+                icon: icon-sitemap
+            side-menu-item2:
+                label: Directors
+                url: /tharanga/movies/directors
+                icon: icon-user-plus
+            side-menu-item3:
+                label: Movies
+                url: /tharanga/movies/movies
+                icon: icon-file-movie-o

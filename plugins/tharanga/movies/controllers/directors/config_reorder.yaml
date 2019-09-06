@@ -1,0 +1,4 @@
+title: Directors
+modelClass: Tharanga\Movies\Models\Director
+toolbar:
+    buttons: reorder_toolbar
