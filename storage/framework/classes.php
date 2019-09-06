@@ -84,4 +84,12 @@
   'RainLab\\User\\Classes\\UserRedirector' => 'plugins\\rainlab\\user\\classes\\UserRedirector.php',
   'rainlab\\user\\Controllers\\users' => 'plugins\\rainlab\\user\\controllers\\users.php',
   'rainlab\\user\\Controllers\\usergroups' => 'plugins\\rainlab\\user\\controllers\\usergroups.php',
+  'rainlab\\blog\\Plugin' => 'plugins\\rainlab\\blog\\Plugin.php',
+  'rainlab\\forum\\Plugin' => 'plugins\\rainlab\\forum\\Plugin.php',
+  'RainLab\\Blog\\Models\\Post' => 'plugins\\rainlab\\blog\\models\\Post.php',
+  'RainLab\\Blog\\Classes\\TagProcessor' => 'plugins\\rainlab\\blog\\classes\\TagProcessor.php',
+  'RainLab\\Blog\\Models\\Category' => 'plugins\\rainlab\\blog\\models\\Category.php',
+  'RainLab\\Forum\\Models\\Channel' => 'plugins\\rainlab\\forum\\models\\Channel.php',
+  'RainLab\\Forum\\Models\\Post' => 'plugins\\rainlab\\forum\\models\\Post.php',
+  'RainLab\\User\\Controllers\\Users' => 'plugins\\rainlab\\user\\controllers\\Users.php',
 );
