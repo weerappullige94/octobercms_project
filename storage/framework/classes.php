@@ -92,4 +92,7 @@
   'RainLab\\Forum\\Models\\Channel' => 'plugins\\rainlab\\forum\\models\\Channel.php',
   'RainLab\\Forum\\Models\\Post' => 'plugins\\rainlab\\forum\\models\\Post.php',
   'RainLab\\User\\Controllers\\Users' => 'plugins\\rainlab\\user\\controllers\\Users.php',
+  'backend\\Controllers\\users' => 'modules\\backend\\controllers\\users.php',
+  'backend\\Controllers\\userroles' => 'modules\\backend\\controllers\\userroles.php',
+  'backend\\Controllers\\usergroups' => 'modules\\backend\\controllers\\usergroups.php',
 );

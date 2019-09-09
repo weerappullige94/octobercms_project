@@ -8,6 +8,7 @@ use Illuminate\Support\MessageBag;
 use Illuminate\Support\Facades\Validator;
 use Exception;
 
+
 trait Validation
 {
     /**
@@ -336,9 +337,7 @@ trait Validation
             $this->afterValidate();
         }
 
-        if (!$success && $throwOnValidation) {
-            throw new ModelException($this);
-        }
+
 
         return $success;
     }
