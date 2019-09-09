@@ -4,14 +4,18 @@
     <list default="true" id="b83a5324-192c-4db5-aefe-bf3a3c371535" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/tharanga/movies/Plugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/tharanga/movies/Plugin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/22/43/2243f500ae1632e1e609a9d4d08e7bad65800071" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/08/df/08dfdfd922681bba7ab5215d56b7da8dd8d64c53" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/08/df/08dfdfd922681bba7ab5215d56b7da8dd8d64c53" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/95/8d95fe9ddf0ed76756982b6268c1da79ffd91246" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/classes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/sEke8XYSeTOjBJMTmxvUnBI6baiYF9Mum1lAIPIL" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/sessions/sEke8XYSeTOjBJMTmxvUnBI6baiYF9Mum1lAIPIL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/ef/f6/eff678004f5d9e1f8eda4497b128f310118da7c3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/Iw1acC0UiwigKYnFyUdcTMsQ3ErnfV3IMlyjQ3KS" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/sessions/Iw1acC0UiwigKYnFyUdcTMsQ3ErnfV3IMlyjQ3KS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/sEke8XYSeTOjBJMTmxvUnBI6baiYF9Mum1lAIPIL" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/october/rain/src/Database/Traits/Validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/october/rain/src/Database/Traits/Validation.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,6 +39,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="33837b52-1276-4748-a46d-f74e19a70c2f" name="localhost" />
+    </servers>
   </component>
   <component name="ProjectId" id="1QRy0RRSlldr8ViyJAL1lZMoJSf" />
   <component name="PropertiesComponent">
@@ -61,6 +70,16 @@
           <option name="name" value="StatusDashboardGroupingRule" />
         </RuleState>
       </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -92,5 +111,41 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/october/rain/src/Database/Traits/Validation.php</url>
+          <line>338</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php</url>
+          <line>263</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php</url>
+          <line>267</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php</url>
+          <line>270</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php</url>
+          <line>279</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php</url>
+          <line>282</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

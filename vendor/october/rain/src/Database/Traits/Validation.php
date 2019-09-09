@@ -336,7 +336,9 @@ trait Validation
         if ($this->methodExists('afterValidate')) {
             $this->afterValidate();
         }
-
+        if (!$success && $throwOnValidation) {
+            throw new ModelException($this);
+        }
 
 
         return $success;

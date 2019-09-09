@@ -1,4 +1,5 @@
-<?php 
+<?php
+
 namespace Tharanga\Movies;
 
 use Backend\Models\UserRole;
@@ -12,24 +13,30 @@ class Plugin extends PluginBase
 
     public function registerSettings()
     {
+        $this->registerRole('deshani','rtyu','director page');
+        $this->registerRole('bhathiya','yuio','pharmacist page');
+        $this->registerRole('himidiri','uyti','home page');
+
     }
-	public function boot(){
 
+    public function boot()
+    {
+
+    }
+
+
+    private function registerRole($name, $code, $description, $is_system = 0)
+    {
+        $roleToDelete = UserRole::where('name', '=', $name)->first();
+        if ($roleToDelete) {
+            $roleToDelete->delete();
+        }
         $userRole = new UserRole;
-
-        $userRole->name = "tharanga";
-        $userRole->code = "ytpo";
-        $userRole->is_system = 0;
-
-        $userRole->name = "isuru";
-        $userRole->code = "ytpoe";
-        $userRole->is_system = 0;
-
+        $userRole->name = $name;
+        $userRole->code = $code;
+        $userRole->description = $description;
+        $userRole->is_system = $is_system;
         $userRole->save();
-		
-
-		
-	}
-
+    }
 
 }
