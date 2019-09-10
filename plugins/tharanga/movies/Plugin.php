@@ -4,6 +4,7 @@ namespace Tharanga\Movies;
 
 use Backend\Models\UserRole;
 use System\Classes\PluginBase;
+use Tharanga\Movies\MyWidget;
 
 class Plugin extends PluginBase
 {
@@ -38,5 +39,17 @@ class Plugin extends PluginBase
         $userRole->is_system = $is_system;
         $userRole->save();
     }
+
+
+    public function registerReportWidgets(){
+        return [
+            'Tharanga\Movies\MyWidget' => [
+                'label'     => 'Quick Notes',
+                'context'   => 'dashboard'
+            ]
+        ];
+    }
+
+
 
 }

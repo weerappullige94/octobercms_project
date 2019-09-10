@@ -15,3 +15,6 @@
 1.0.6:
     - 'Created table tharanga_movies_directors'
     - builder_table_create_tharanga_movies_directors.php
+1.0.7:
+    - 'Created table tharanga_movies_widget'
+    - builder_table_create_tharanga_movies_widget.php

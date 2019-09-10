@@ -22,3 +22,7 @@ navigation:
                 label: Movies
                 url: /tharanga/movies/movies
                 icon: icon-file-movie-o
+            side-menu-item4:
+                label: 'Menu Item'
+                url: /tharanga/movies/movies
+                icon: icon-sitemap
