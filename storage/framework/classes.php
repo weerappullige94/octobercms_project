@@ -118,4 +118,5 @@
   'RainLab\\User\\Components\\ResetPassword' => 'plugins\\rainlab\\user\\components\\ResetPassword.php',
   'Tharanga\\Movies\\MyWidget' => 'plugins\\tharanga\\movies\\MyWidget.php',
   'Indikator\\Backend\\ReportWidgets\\Images' => 'plugins\\indikator\\backend\\reportwidgets\\Images.php',
+  'system\\Controllers\\mailtemplates' => 'modules\\system\\controllers\\mailtemplates.php',
 );
