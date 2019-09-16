@@ -119,4 +119,7 @@
   'Tharanga\\Movies\\MyWidget' => 'plugins\\tharanga\\movies\\MyWidget.php',
   'Indikator\\Backend\\ReportWidgets\\Images' => 'plugins\\indikator\\backend\\reportwidgets\\Images.php',
   'system\\Controllers\\mailtemplates' => 'modules\\system\\controllers\\mailtemplates.php',
+  'rafie\\quicknote\\Plugin' => 'plugins\\rafie\\quicknote\\Plugin.php',
+  'tharanga\\quicknote\\Plugin' => 'plugins\\tharanga\\quicknote\\Plugin.php',
+  'RAFIE\\QuickNote\\QuickNoteWidget' => 'plugins\\rafie\\quicknote\\QuickNoteWidget.php',
 );

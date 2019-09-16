@@ -1,0 +1,6 @@
+plugin:
+    name: 'tharanga.quicknote::lang.plugin.name'
+    description: 'tharanga.quicknote::lang.plugin.description'
+    author: Tharanga
+    icon: oc-icon-adjust
+    homepage: ''
