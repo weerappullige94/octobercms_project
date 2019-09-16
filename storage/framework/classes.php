@@ -121,5 +121,6 @@
   'system\\Controllers\\mailtemplates' => 'modules\\system\\controllers\\mailtemplates.php',
   'rafie\\quicknote\\Plugin' => 'plugins\\rafie\\quicknote\\Plugin.php',
   'tharanga\\quicknote\\Plugin' => 'plugins\\tharanga\\quicknote\\Plugin.php',
+  'RAFIE\\QuickNote\\quicknotewidget' => 'plugins\\rafie\\quicknote\\quicknotewidget.php',
   'RAFIE\\QuickNote\\QuickNoteWidget' => 'plugins\\rafie\\quicknote\\QuickNoteWidget.php',
 );
