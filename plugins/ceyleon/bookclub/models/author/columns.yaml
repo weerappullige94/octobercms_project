@@ -1,0 +1,12 @@
+columns:
+    id:
+        label: 'ceyleon.bookclub::lang.au.id'
+        type: number
+        sortable: true
+    name:
+        label: 'ceyleon.bookclub::lang.au.name'
+        type: text
+        sortable: true
+    book_id:
+        label: 'ceyleon.bookclub::lang.au.book_id'
+        type: number

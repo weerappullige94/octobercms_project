@@ -5,7 +5,7 @@ use Model;
 /**
  * Model
  */
-class Book extends Model
+class Author extends Model
 {
     use \October\Rain\Database\Traits\Validation;
     
@@ -13,18 +13,11 @@ class Book extends Model
     /**
      * @var string The database table used by the model.
      */
-    public $table = 'ceyleon_bookclub_books';
+    public $table = 'ceyleon_bookclub_authors';
 
     /**
      * @var array Validation rules
      */
     public $rules = [
-    ];
-
-    public $belongsTo = [
-        'publisher' => [Publisher::class],
-        'category' => [Category::class],
-        'author' => [Author::class]
-
     ];
 }

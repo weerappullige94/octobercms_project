@@ -1,0 +1,13 @@
+fields:
+    id:
+        label: 'ceyleon.bookclub::lang.au.id'
+        span: auto
+        type: number
+    name:
+        label: 'ceyleon.bookclub::lang.au.name'
+        span: auto
+        type: text
+    book_id:
+        label: 'ceyleon.bookclub::lang.au.book_id'
+        span: auto
+        type: number

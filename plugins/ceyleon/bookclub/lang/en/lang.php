@@ -31,4 +31,9 @@
     'c' => [
         'name' => 'Name',
     ],
+    'au' => [
+        'id' => 'ID',
+        'name' => 'Name',
+        'book_id' => 'Book ID',
+    ],
 ];

@@ -22,3 +22,7 @@ navigation:
                 label: 'ceyleon.bookclub::lang.t.category'
                 url: /ceyleon/bookclub/categories
                 icon: icon-tags
+            Author:
+                label: Author
+                url: ceyleon/bookclub/authors
+                icon: icon-user

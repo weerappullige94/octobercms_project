@@ -14,3 +14,15 @@
 1.0.5:
     - 'Drop table ceyleon_bookclub_oodi'
     - builder_table_delete_ceyleon_bookclub_oodi.php
+1.0.6:
+    - 'Created table ceyleon_bookclub_authors'
+    - builder_table_create_ceyleon_bookclub_authors.php
+1.0.7:
+    - 'Updated table ceyleon_bookclub_authors'
+    - builder_table_update_ceyleon_bookclub_authors.php
+1.0.8:
+    - 'Updated table ceyleon_bookclub_authors'
+    - builder_table_update_ceyleon_bookclub_authors_2.php
+1.0.9:
+    - 'Updated table ceyleon_bookclub_authors'
+    - builder_table_update_ceyleon_bookclub_authors_3.php

@@ -1,0 +1,10 @@
+name: Authors
+form: $/ceyleon/bookclub/models/author/fields.yaml
+modelClass: Ceyleon\BookClub\Models\Author
+defaultRedirect: ceyleon/bookclub/authors
+create:
+    redirect: 'ceyleon/bookclub/authors/update/:id'
+    redirectClose: ceyleon/bookclub/authors
+update:
+    redirect: ceyleon/bookclub/authors
+    redirectClose: ceyleon/bookclub/authors

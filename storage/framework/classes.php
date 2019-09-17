@@ -128,4 +128,8 @@
   'Ceyleon\\BookClub\\Models\\Book' => 'plugins\\ceyleon\\bookclub\\models\\Book.php',
   'Ceyleon\\BookClub\\Models\\Publisher' => 'plugins\\ceyleon\\bookclub\\models\\Publisher.php',
   'ceyleon\\bookclub\\Controllers\\publishers' => 'plugins\\ceyleon\\bookclub\\controllers\\publishers.php',
+  'ceyleon\\bookclub\\Controllers\\authors' => 'plugins\\ceyleon\\bookclub\\controllers\\authors.php',
+  'Ceyleon\\BookClub\\Models\\Author' => 'plugins\\ceyleon\\bookclub\\models\\Author.php',
+  'ceyleon\\bookclub\\Controllers\\categories' => 'plugins\\ceyleon\\bookclub\\controllers\\categories.php',
+  'Ceyleon\\BookClub\\Models\\Category' => 'plugins\\ceyleon\\bookclub\\models\\Category.php',
 );

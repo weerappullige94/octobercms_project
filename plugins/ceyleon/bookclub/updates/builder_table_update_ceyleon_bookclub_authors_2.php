@@ -1,0 +1,25 @@
+<?php namespace Ceyleon\BookClub\Updates;
+
+use Schema;
+use October\Rain\Database\Updates\Migration;
+
+class BuilderTableUpdateCeyleonBookclubAuthors2 extends Migration
+{
+    public function up()
+    {
+        Schema::table('ceyleon_bookclub_authors', function($table)
+        {
+            $table->timestamp('created_at')->nullable();
+            $table->timestamp('updated_at')->nullable();
+        });
+    }
+    
+    public function down()
+    {
+        Schema::table('ceyleon_bookclub_authors', function($table)
+        {
+            $table->dropColumn('created_at');
+            $table->dropColumn('updated_at');
+        });
+    }
+}
