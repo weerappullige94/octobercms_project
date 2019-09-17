@@ -1,0 +1,10 @@
+name: Books
+form: $/ceyleon/bookclub/models/book/fields.yaml
+modelClass: Ceyleon\BookClub\Models\Book
+defaultRedirect: ceyleon/bookclub/books
+create:
+    redirect: 'ceyleon/bookclub/books/update/:id'
+    redirectClose: ceyleon/bookclub/books
+update:
+    redirect: ceyleon/bookclub/books
+    redirectClose: ceyleon/bookclub/books

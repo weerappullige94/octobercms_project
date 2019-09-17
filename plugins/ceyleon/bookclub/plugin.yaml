@@ -1,0 +1,24 @@
+plugin:
+    name: 'ceyleon.bookclub::lang.plugin.name'
+    description: 'ceyleon.bookclub::lang.plugin.description'
+    author: Ceyleon
+    icon: oc-icon-book
+    homepage: 'http://www.bookclub.lk'
+navigation:
+    books:
+        label: 'ceyleon.bookclub::lang.t.bookclub'
+        url: ceyleon/bookclub/books
+        icon: icon-book
+        sideMenu:
+            books:
+                label: 'ceyleon.bookclub::lang.t.books'
+                url: ceyleon/bookclub/books
+                icon: icon-book
+            publishers:
+                label: 'ceyleon.bookclub::lang.t.publisher'
+                url: ceyleon/bookclub/publishers
+                icon: icon-user
+            category:
+                label: 'ceyleon.bookclub::lang.t.category'
+                url: /ceyleon/bookclub/categories
+                icon: icon-tags

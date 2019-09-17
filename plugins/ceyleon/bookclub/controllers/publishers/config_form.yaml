@@ -1,0 +1,10 @@
+name: Publishers
+form: $/ceyleon/bookclub/models/publisher/fields.yaml
+modelClass: Ceyleon\BookClub\Models\Publisher
+defaultRedirect: ceyleon/bookclub/publishers
+create:
+    redirect: 'ceyleon/bookclub/publishers/update/:id'
+    redirectClose: ceyleon/bookclub/publishers
+update:
+    redirect: ceyleon/bookclub/publishers
+    redirectClose: ceyleon/bookclub/publishers

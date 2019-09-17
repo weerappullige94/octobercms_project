@@ -2,31 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b83a5324-192c-4db5-aefe-bf3a3c371535" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/plugins/rafie/quicknote/quicknotewidget/partials/_notes.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/rafie/quicknote/QuickNoteWidget.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/rafie/quicknote/QuickNoteWidget.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/rafie/quicknote/partials/_notes.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/tharanga/movies/MyWidget.php" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/tharanga/movies/MyWidget.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugins/tharanga/movies/widgets/partials/_notes.htm" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/tharanga/movies/mywidget/partials/_notes.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/08/df/08dfdfd922681bba7ab5215d56b7da8dd8d64c53" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/11/de/11de31e1eabb2682cf62ee9c9ccb0630f1019006" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/32/f6/32f67f0752fcf00fe8a281617b904a664bf87c31" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/68/14/681441af38ac2f05a56d7118130f932163789338" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/72/4d/724d64623b82cdd367a46a1a3611b8fce75faedf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/77/61/77616e1c5e0d202cb4cf522bddafaebf56f27660" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/a0/c9/a0c910eb995ad1e9281e5bb05187281e039e242f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/d2/bf/d2bfa1437aba00dadecca2b56617050d8f711997" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/classes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/71S5v1CcLc6APU81hiHnZEyErU95TkuhEeAtK6QW" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/HxhEnnp1WUmxeVeI9SHlYfWoaLTrLp9apfjQHkzh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/Jiz5hBuZ9xFkQSPnGnLr3y6c3KWtlBhFRlrI5alB" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/KtVBJ4L1PSpwpus0wTOSp6K0ITjsdUHKff8X7Laj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/ZN7JuhN1FW1TB6ijajwnlHs8GvwLBg5a9lyYNil6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/mrsMMyH6wPcz06ymR75ZpxTOVQU3QENUcBK2NxF8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/ZZDfSaG77LmeX7TB5In5OBXldaTf8FylV3gBLAzA" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +102,7 @@
       <workItem from="1567397354942" duration="27000" />
       <workItem from="1568087703459" duration="13074000" />
       <workItem from="1568176683290" duration="3268000" />
-      <workItem from="1568607029309" duration="11190000" />
+      <workItem from="1568607029309" duration="13253000" />
     </task>
     <servers />
   </component>

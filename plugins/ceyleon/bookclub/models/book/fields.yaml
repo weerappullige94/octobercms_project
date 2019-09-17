@@ -1,0 +1,49 @@
+fields:
+    name:
+        label: 'ceyleon.bookclub::lang.t.name'
+        span: full
+        type: text
+    language:
+        label: 'ceyleon.bookclub::lang.t.language'
+        options:
+            en: English
+            si: Sinhala
+            ta: Tamil
+        showSearch: true
+        span: full
+        type: dropdown
+    isbn:
+        label: 'ceyleon.bookclub::lang.t.isbn'
+        span: full
+        type: text
+    file_size:
+        label: 'ceyleon.bookclub::lang.t.file_size'
+        span: full
+        type: number
+    no_of_pages:
+        label: 'ceyleon.bookclub::lang.t.no_of_pages'
+        span: auto
+        type: text
+    price:
+        label: 'ceyleon.bookclub::lang.t.price'
+        span: auto
+        type: number
+    cover_page:
+        label: 'ceyleon.bookclub::lang.t.cover_page'
+        span: auto
+        type: text
+    tags:
+        label: 'ceyleon.bookclub::lang.t.tags_id'
+        span: auto
+        type: text
+    book_categories_id:
+        label: 'ceyleon.bookclub::lang.t.book_categories_id'
+        span: auto
+        type: number
+    publisher:
+        label: 'ceyleon.quotes::lang.t.category'
+        nameFrom: name
+        descriptionFrom: description
+        span: left
+        required: 1
+        type: relation

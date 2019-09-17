@@ -1,0 +1,10 @@
+name: Categories
+form: $/ceyleon/bookclub/models/category/fields.yaml
+modelClass: Ceyleon\BookClub\Models\Category
+defaultRedirect: ceyleon/bookclub/categories
+create:
+    redirect: 'ceyleon/bookclub/categories/update/:id'
+    redirectClose: ceyleon/bookclub/categories
+update:
+    redirect: ceyleon/bookclub/categories
+    redirectClose: ceyleon/bookclub/categories

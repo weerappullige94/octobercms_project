@@ -1,0 +1,12 @@
+list: $/ceyleon/bookclub/models/publisher/columns.yaml
+modelClass: Ceyleon\BookClub\Models\Publisher
+title: Publishers
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'ceyleon/bookclub/publishers/update/:id'

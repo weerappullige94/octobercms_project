@@ -123,4 +123,9 @@
   'tharanga\\quicknote\\Plugin' => 'plugins\\tharanga\\quicknote\\Plugin.php',
   'RAFIE\\QuickNote\\quicknotewidget' => 'plugins\\rafie\\quicknote\\quicknotewidget.php',
   'RAFIE\\QuickNote\\QuickNoteWidget' => 'plugins\\rafie\\quicknote\\QuickNoteWidget.php',
+  'ceyleon\\bookclub\\Plugin' => 'plugins\\ceyleon\\bookclub\\Plugin.php',
+  'ceyleon\\bookclub\\Controllers\\books' => 'plugins\\ceyleon\\bookclub\\controllers\\books.php',
+  'Ceyleon\\BookClub\\Models\\Book' => 'plugins\\ceyleon\\bookclub\\models\\Book.php',
+  'Ceyleon\\BookClub\\Models\\Publisher' => 'plugins\\ceyleon\\bookclub\\models\\Publisher.php',
+  'ceyleon\\bookclub\\Controllers\\publishers' => 'plugins\\ceyleon\\bookclub\\controllers\\publishers.php',
 );

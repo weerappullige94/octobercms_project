@@ -1,0 +1,4 @@
+columns:
+    id:
+        label: 'ceyleon.bookclub::lang.t.book_categories_id'
+        type: number

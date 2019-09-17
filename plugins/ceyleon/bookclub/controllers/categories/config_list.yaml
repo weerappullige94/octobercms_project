@@ -1,0 +1,12 @@
+list: $/ceyleon/bookclub/models/category/columns.yaml
+modelClass: Ceyleon\BookClub\Models\Category
+title: Categories
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'ceyleon/bookclub/categories/update/:id'

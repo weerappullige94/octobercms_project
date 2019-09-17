@@ -1,0 +1,7 @@
+columns:
+    id:
+        label: 'ceyleon.bookclub::lang.t.tags_id'
+        type: number
+    name:
+        label: 'ceyleon.bookclub::lang.t.name'
+        type: text

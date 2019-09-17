@@ -1,0 +1,9 @@
+fields:
+    name:
+        label: 'ceyleon.bookclub::lang.a.name'
+        span: auto
+        type: text
+    description:
+        label: 'ceyleon.bookclub::lang.a.description'
+        span: auto
+        type: text

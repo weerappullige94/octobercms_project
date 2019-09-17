@@ -1,0 +1,16 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table ceyleon_bookclub_books'
+    - builder_table_create_ceyleon_bookclub_books.php
+    - 'Created table ceyleon_bookclub_categories'
+    - builder_table_create_ceyleon_bookclub_categories.php
+1.0.3:
+    - 'Created table ceyleon_bookclub_publishers'
+    - builder_table_create_ceyleon_bookclub_publishers.php
+1.0.4:
+    - 'Created table ceyleon_bookclub_oodi'
+    - builder_table_create_ceyleon_bookclub_oodi.php
+1.0.5:
+    - 'Drop table ceyleon_bookclub_oodi'
+    - builder_table_delete_ceyleon_bookclub_oodi.php

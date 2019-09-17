@@ -1,0 +1,8 @@
+columns:
+    id:
+        label: 'ceyleon.bookclub::lang.a.id'
+        type: number
+        sortable: true
+    name:
+        label: 'ceyleon.bookclub::lang.a.name'
+        type: text
